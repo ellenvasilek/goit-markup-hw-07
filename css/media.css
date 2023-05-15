@@ -91,6 +91,14 @@
   .mob-burger {
     display: none;
   }
+  .mob-menu {
+    display: none;
+  }
+  .is-hidden {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+  }
   /**------------Hero------------- */
   .hero {
     background-image: linear-gradient(
@@ -296,6 +304,14 @@
   }
   .mob-burger {
     display: none;
+  }
+  .mob-menu {
+    display: none;
+  }
+  .is-hidden {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
   }
   /**------------------Hero--------------- */
   .hero {
